@@ -1,0 +1,45 @@
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url(/LandingPage/images/backgroundLp.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right;
+    color: white;
+    border: #131212f1;
+}
+
+.container1 {
+    background-color: #131212f1;
+    width: 450px;
+    height: auto;
+  }
+
+  .topLogo {
+    width: 230px;
+  }
+
+  #paragraph {
+    margin-top: 8px;
+    margin-bottom: 8px;
+  }
+
+  .btnSucess {
+    color: white;
+    border: 1px solid rgb(10, 25, 231);
+  }
+
+  .btnSucess:hover {
+    background-color: rgb(10, 25, 231);
+    color: white;
+  }
+
+  .fotter {
+    margin-top: 30px;
+    margin-bottom: -30px;
+  }
