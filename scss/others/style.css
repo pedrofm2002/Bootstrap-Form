@@ -1,12 +1,10 @@
-@import url(colors.scss);
-@import url(page.scss);
 * {
   margin: 0px;
   padding: 0px;
 }
 
 body {
-  background-image: url(/LandingPage/images/backgroundLp.png);
+  background-image: url(/images/backgroundLp.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: right;
